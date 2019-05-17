@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\x-esp\OneDrive\Escritorio\Vite\Proyecto-Final-CG-master\Proyecto Final\PFCG\main.cpp(43,31): error C2065:  'tree': identificador no declarado
+C:\Users\x-esp\OneDrive\Escritorio\Vite\Proyecto-Final-CG-master\Proyecto Final\PFCG\main.cpp(43,43): error C2660:  'glBindTexture': la función no acepta 1 argumentos
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\GL\gl.h(1162,25): message :  vea la declaración de 'glBindTexture'

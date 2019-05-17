@@ -1,0 +1,14 @@
+﻿main.obj : error LNK2019: símbolo externo __imp___glutInitWithExit sin resolver al que se hace referencia en la función glutInit_ATEXIT_HACK
+main.obj : error LNK2019: símbolo externo __imp_glutInitDisplayMode sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitWindowPosition sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutInitWindowSize sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutMainLoop sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp___glutCreateWindowWithExit sin resolver al que se hace referencia en la función glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: símbolo externo __imp_glutPostRedisplay sin resolver al que se hace referencia en la función "void __cdecl arrow_keys(int,int,int)" (?arrow_keys@@YAXHHH@Z)
+main.obj : error LNK2019: símbolo externo __imp_glutSwapBuffers sin resolver al que se hace referencia en la función "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: símbolo externo __imp_glutDisplayFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutReshapeFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutKeyboardFunc sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo __imp_glutSpecialFunc sin resolver al que se hace referencia en la función main
+lib\glut32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\x-esp\OneDrive\Escritorio\Vite\Proyecto-Final-CG-master\Proyecto Final\x64\Debug\PFCG.exe : fatal error LNK1120: 12 externos sin resolver
