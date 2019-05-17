@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+  figuras.cpp
+c:\users\luis\documents\archivos\lcg\practica9\p9\p9\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\luis\documents\archivos\lcg\practica9\p9\p9\figuras.cpp(84): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\luis\documents\archivos\lcg\practica9\p9\p9\figuras.cpp(135): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\luis\documents\archivos\lcg\practica9\p9\p9\figuras.cpp(324): warning C4101: 'theta': variable local sin referencia
+c:\users\luis\documents\archivos\lcg\practica9\p9\p9\figuras.cpp(324): warning C4101: 'phi': variable local sin referencia
+  main.cpp
+  texture.cpp
+  Generando código...
+  P9.vcxproj -> C:\Users\Luis\Documents\Archivos\LCG\Practica9\P9\Debug\P9.exe
